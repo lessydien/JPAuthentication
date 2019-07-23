@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">JPAuthentication</string>
+    <string name="daftar">Daftar</string>
+    <string name="manual">Manual</string>
+    <string name="owner">Owner</string>
+    <string name="edit_user">Edit User</string>
+    <string name="tambah_user">Tambah User</string>
+    <string name="hapus_user">Hapus User</string>
+    <string name="password">password</string>
+    <string name="login_label">Simpan</string>
+    <string name="login">Registrasi - Tap KTP yang akan ditambahkan</string>
+    <string name="noktp">No. KTP</string>
+    <string name="nama_user">Nama</string>
+    <string name="accout">Tipe</string>
+
+    <string name="sidik_jari"> [ Klik Logo Sidik Jari Untuk Login ]</string>
+    <string name="hal_login">Login</string>
+    <string name="biometric_title">Login</string>
+    <string name="biometric_subtitle">Gunakan Sensor Finger Print di HP anda</string>
+    <string name="biometric_description">Letakkan Jari anda di sensor</string>
+    <string name="biometric_negative_button_text">Cancel</string>
+    <string name="biometric_error_sdk_not_supported">SDK not supported</string>
+    <string name="biometric_error_hardware_not_supported">Finger Print Sensor not supported</string>
+    <string name="biometric_error_fingerprint_not_available">FInger Print not found</string>
+    <string name="biometric_error_permission_not_granted">Dont have permission to use Finger Print</string>
+    <string name="biometric_cancelled">Cancel</string>
+    <string name="biometric_success">Succes</string>
+    <string name="login_ektp">[ TAP E-KTP ]</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="login_awal">::Login::</string>
+    <string name="login_tombol">Login</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="password_lama">Password Lama</string>
+    <string name="field_off">Field Off.</string>
+    <string name="station_off">Station Off.</string>
+    <string name="admin">Admin</string>
+
+    <string-array name="tipe1">
+        <item>Admin</item>
+        <item>Station Officer</item>
+        <item>Field Officer</item>
+    </string-array>
+
+
+</resources>
